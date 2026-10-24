@@ -1,0 +1,10 @@
+104.16.147.51:443#104.16.147.51-443-235ms-测速失败（速率限制）-LAX-US-North America-Los Angeles
+104.17.155.57:443#104.17.155.57-443-228ms-测速失败（速率限制）-LAX-US-North America-Los Angeles
+104.19.55.31:443#104.19.55.31-443-221ms-测速失败（速率限制）-LAX-US-North America-Los Angeles
+104.19.10.99:443#104.19.10.99-443-220ms-未测速-LAX-US-North America-Los Angeles
+104.16.175.122:443#104.16.175.122-443-219ms-未测速-LAX-US-North America-Los Angeles
+104.18.151.7:443#104.18.151.7-443-223ms-未测速-LAX-US-North America-Los Angeles
+104.17.78.130:443#104.17.78.130-443-232ms-未测速-LAX-US-North America-Los Angeles
+104.19.41.43:443#104.19.41.43-443-214ms-未测速-LAX-US-North America-Los Angeles
+104.17.81.223:443#104.17.81.223-443-209ms-未测速-LAX-US-North America-Los Angeles
+104.17.245.30:443#104.17.245.30-443-225ms-未测速-LAX-US-North America-Los Angeles
