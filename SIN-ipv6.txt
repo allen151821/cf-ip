@@ -9,12 +9,4 @@
 [2a06:98c1:310a:ecbc:e270:4a99:ef30:c92d]:443#SG-SIN-Asia Pacific-12.95MB/s
 [2606:4700:440f:906c:a153:444e:6d75:70e0]:443#SG-SIN-Asia Pacific-12.05MB/s
 [2a06:98c1:50:1eb5:e590:d427:9a31:257]:443#SG-SIN-Asia Pacific-10.06MB/s
-[2606:4700:54:720a:8e98:2cd7:5fe9:72f]:443#SG-SIN-Asia Pacific-6.71MB/s
-[2a06:98c1:3106:446:be73:80b1:d804:6f07]:443#SG-SIN-Asia Pacific-6.38MB/s
-[2400:cb00:2049:f587:b30e:a9b4:a4ff:b394]:443#SG-SIN-Asia Pacific-6.36MB/s
-[2a06:98c1:51:5618:7d65:8cee:fcb0:e16a]:443#SG-SIN-Asia Pacific-6.27MB/s
-[2606:4700:440a:2ea8:88fa:d279:9bba:5a00]:443#SG-SIN-Asia Pacific-4.40MB/s
-[2a06:98c1:310f:4f1e:ef25:cfcb:38e7:984]:443#SG-SIN-Asia Pacific-4.22MB/s
-[2606:4700:4404:fec0:ac9b:5d46:93ee:b765]:443#SG-SIN-Asia Pacific-3.83MB/s
-[2606:4700:5b:9625:b0cd:a6ab:7199:360a]:443#SG-SIN-Asia Pacific-2.24MB/s
-[2606:4700:4405:c141:1da5:2efe:eb86:16b7]:443#SG-SIN-Asia Pacific-1.93MB/s
+
